@@ -7,7 +7,7 @@ An early-warning system to monitor and predict the risk of chronic diseases like
 > ✅ Built entirely by Ujwala Rapalli to showcase understanding of end-to-end AI/ML systems, health analytics, and real-world deployment.  
 > ✅ Intended for demonstration in interviews to validate skills in data preprocessing, modeling, interpretation, and solution architecture.
 
-🔗 **Live Demo:** [Streamlit App](https://chronic-disease-predictor.streamlit.app)  
+🔗 **Live Demo:** [Streamlit App](https://chronic-disease-prevention-tracker-mygmwgckcin2uhjqdyhiip.streamlit.app/)  
 📦 **GitHub Repo:** [Chronic Disease Prevention Tracker](https://github.com/ujwala-rapalli/Chronic-Disease-Prevention-Tracker)
 
 ---
