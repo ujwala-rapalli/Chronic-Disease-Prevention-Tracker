@@ -47,6 +47,26 @@ Create a system that continuously monitors lifestyle and health indicators to:
 
 ---
 
+## 🧠 Chronic Disease Prediction - Output
+
+The system takes user inputs like age, BMI, glucose level, etc., and predicts risks for diseases such as:
+
+- Diabetes
+- Hypertension
+- Cardiovascular diseases
+- Cholesterol levels
+
+### 🔍 Sample Input & Prediction
+![User Input and Prediction](images/Screenshot%202025-07-08%20135902.png)
+![User Input and Prediction](images/Screenshot%202025-07-08%20135928.png)
+![User Input and Prediction](images/Screenshot%202025-07-08%20135949.png)
+![User Input and Prediction](images/Screenshot%202025-07-08%20140002.png)
+
+### 📈 Accuracy of Models
+Below is the classification report of XGBoost models trained on health data.
+![Classification Report](images/image.png)
+
+
 ## 🧪 Input Features Used
 
 | Feature                | Description                        |
